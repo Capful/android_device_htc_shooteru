@@ -22,7 +22,7 @@
                 android:title="@string/build_author" 
                 android:summary="@string/build_author_summary">
             <intent android:action="android.intent.action.VIEW"
-                    android:data="http://bbs.paojiao.cn/forum.php?mod=forumdisplay&fid=90" />
+                    android:data="http://bbs.paojiao.cn/forum.php?gid=89
         </PreferenceScreen>
 
 </PreferenceScreen>
